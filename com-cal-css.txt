@@ -1,0 +1,7 @@
+.gfield_description {
+	display: none
+}
+
+#gform_submit_button_8 {
+	display: none;
+}
